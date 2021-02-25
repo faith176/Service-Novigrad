@@ -1,42 +1,33 @@
 {
   "project_info": {
-    "project_number": "454905565566",
-    "firebase_url": "https://service-novigrad.firebaseio.com",
-    "project_id": "service-novigrad",
-    "storage_bucket": "service-novigrad.appspot.com"
+    "project_number": "1071968497085",
+    "project_id": "service-novigrad-caac3",
+    "storage_bucket": "service-novigrad-caac3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:454905565566:android:5adf2ee991ff85b66a632f",
+        "mobilesdk_app_id": "1:1071968497085:android:9da237f02d5668218976d4",
         "android_client_info": {
           "package_name": "com.uottawa.servicenovigrad"
         }
       },
       "oauth_client": [
         {
-          "client_id": "454905565566-5h8tf2qu4qhqt5jdk6b31vq0revmtp73.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.uottawa.servicenovigrad",
-            "certificate_hash": "577142d77f68053979d84d767e3d2c9123af3281"
-          }
-        },
-        {
-          "client_id": "454905565566-8gm1e9md97jbs83smjbipbujomie7gpb.apps.googleusercontent.com",
+          "client_id": "1071968497085-kqaj5f652b10ha58fg8u2qs0t297l7nf.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBH3PKKClvg8nlP_p1kjxr15h8VEI8asho"
+          "current_key": "AIzaSyCd_UMK03oIbwpnR874YiAC9xe0RQPa9_0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "454905565566-8gm1e9md97jbs83smjbipbujomie7gpb.apps.googleusercontent.com",
+              "client_id": "1071968497085-kqaj5f652b10ha58fg8u2qs0t297l7nf.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
