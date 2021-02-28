@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.uottawa.servicenovigrad">
+    package="com.uottawa.servicenovigrad1">
 
     <application
         android:allowBackup="true"
@@ -9,34 +9,34 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activities.customer.CustomerRateActivity"></activity>
-        <activity android:name=".activities.customer.CustomerSearchActivity" />
-        <activity android:name=".activities.customer.CustomerNewRequestActivity" />
-        <activity android:name=".activities.service.ServicePickerActivity" />
-        <activity android:name=".activities.employee.EmployeeLoaderActivity" />
-        <activity android:name=".activities.employee.EmployeeEditActivity" />
-        <activity android:name=".activities.admin.AdminServicesEdit" />
-        <activity android:name=".activities.admin.AdminServicesActivity" />
-        <activity android:name=".activities.admin.AdminUsersActivity" />
-        <activity android:name=".activities.customer.CustomerMainActivity" />
-        <activity android:name=".activities.employee.EmployeeMainActivity" />
-        <activity android:name=".activities.admin.AdminMainActivity" />
-        <activity android:name=".activities.SplashScreenActivity">
+        <activity android:name="com.uottawa.servicenovigrad1.activities.customer.CustomerRateActivity"></activity>
+        <activity android:name="com.uottawa.servicenovigrad1.activities.customer.CustomerSearchActivity" />
+        <activity android:name="com.uottawa.servicenovigrad1.activities.customer.CustomerNewRequestActivity" />
+        <activity android:name="com.uottawa.servicenovigrad1.activities.service.ServicePickerActivity" />
+        <activity android:name="com.uottawa.servicenovigrad1.activities.employee.EmployeeLoaderActivity" />
+        <activity android:name="com.uottawa.servicenovigrad1.activities.employee.EmployeeEditActivity" />
+        <activity android:name="com.uottawa.servicenovigrad1.activities.admin.AdminServicesEdit" />
+        <activity android:name="com.uottawa.servicenovigrad1.activities.admin.AdminServicesActivity" />
+        <activity android:name="com.uottawa.servicenovigrad1.activities.admin.AdminUsersActivity" />
+        <activity android:name="com.uottawa.servicenovigrad1.activities.customer.CustomerMainActivity" />
+        <activity android:name="com.uottawa.servicenovigrad1.activities.employee.EmployeeMainActivity" />
+        <activity android:name="com.uottawa.servicenovigrad1.activities.admin.AdminMainActivity" />
+        <activity android:name="com.uottawa.servicenovigrad1.activities.SplashScreenActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activities.auth.LoginActivity" />
-        <activity android:name=".activities.auth.SignUpActivity" />
-        <activity android:name=".activities.MainActivity" />
+        <activity android:name="com.uottawa.servicenovigrad1.activities.auth.LoginActivity" />
+        <activity android:name="com.uottawa.servicenovigrad1.activities.auth.SignUpActivity" />
+        <activity android:name="com.uottawa.servicenovigrad1.activities.MainActivity" />
 
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" /> <!-- [START firebase_service] -->
         <service
-            android:name=".activities.MyFirebaseMessagingService"
+            android:name="com.uottawa.servicenovigrad1.activities.MyFirebaseMessagingService"
             android:directBootAware="true"
             android:exported="false">
             <intent-filter>

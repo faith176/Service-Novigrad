@@ -1,15 +1,16 @@
 {
   "project_info": {
     "project_number": "1071968497085",
+    "firebase_url": "https://service-novigrad-caac3-default-rtdb.firebaseio.com",
     "project_id": "service-novigrad-caac3",
     "storage_bucket": "service-novigrad-caac3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1071968497085:android:9da237f02d5668218976d4",
+        "mobilesdk_app_id": "1:1071968497085:android:c04f454377bef20d8976d4",
         "android_client_info": {
-          "package_name": "com.uottawa.servicenovigrad"
+          "package_name": "com.uottawa.servicenovigrad1"
         }
       },
       "oauth_client": [
