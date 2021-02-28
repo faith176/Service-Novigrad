@@ -7,7 +7,7 @@ Feyi Adesanya  \
 Ethan Plant  \
 Zayd Ghazal 
 
-[![CircleCI](https://circleci.com/gh/faith176/Service_Novigrad.svg?style=svg&circle)](https://app.circleci.com/pipelines/github/faith176/Service_Novigrad)
+[![CircleCI](https://circleci.com/gh/faith176/Service_Novigrad.svg?style=svg&circle-token=717e7901d8b868e13849576e2e94ad9568cc6f8b)](https://app.circleci.com/pipelines/github/faith176/Service_Novigrad)
 
 
 # Deliverable 1
