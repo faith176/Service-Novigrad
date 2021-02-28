@@ -1,6 +1,10 @@
 # Service Novigrad Android Project
 This is the repository of the Service Novigrad android project, made by SEG 2105 Project Group 1. 
 
+# Project Purpose
+The purpose of this project was to create a government application, Service Novigrad, which offered services from an imaginary province to its citizens. 
+The administrator login is pre-programmed into the application, while the branch employee and customer accounts are stored in Firebase Firestore and handled by Firebase Authentication. 
+
 # Group Members
 Howard Hao En Tseng  \
 Feyi Adesanya  \
