@@ -38,7 +38,7 @@ public class UserController {
 
     protected UserController(FirebaseFirestore db, FirebaseAuth auth) {
         this.auth = auth;
-        firestore = db;
+        this.firestore = db;
     }
 
     public void signInAsAdmin(final View view, final Function onSuccess) {
