@@ -14,9 +14,9 @@ Zayd Ghazal
 [![CircleCI](https://circleci.com/gh/faith176/Service_Novigrad.svg?style=svg&circle-token=717e7901d8b868e13849576e2e94ad9568cc6f8b)](https://app.circleci.com/pipelines/github/faith176/Service_Novigrad)
 
 # Pictures of App
-![login](app/src/main/res/drawable/pngs/login.png)
-![login](app/src/main/res/drawable/pngs/services1.png)
-![login](app/src/main/res/drawable/pngs/services2.png)
+![login](app/src/main/assets/login.png)
+![login](app/src/main/assets/services1.png)
+![login](app/src/main/assets/services2.png)
 
 # Deliverable 1
 The following functionality is implemented in deliverable 1:
