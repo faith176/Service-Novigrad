@@ -1,5 +1,5 @@
 # Service Novigrad Android Project
-This is the repository of the Service Novigrad android project, made by SEG 2105 Project Group 1. 
+This is the repository of the Service Novigrad android project, made by Project Group 1 for the course SEG 2105 at the University of Ottawa. 
 
 # Project Purpose
 The purpose of this project was to create a government application, Service Novigrad, which offered services from an imaginary province to its citizens. 
